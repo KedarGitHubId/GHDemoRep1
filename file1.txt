@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 8E86-6123
+
+ Directory of D:\GitDemoProj2
+
+06/05/2020  04:21 PM    <DIR>          .
+06/05/2020  04:21 PM    <DIR>          ..
+06/05/2020  04:21 PM                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  67,633,942,528 bytes free
