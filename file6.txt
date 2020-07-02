@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 528D-3B95
+
+ Directory of C:\Users\HP\Git\GHDemoRep1
+
+07/02/2020  04:56 PM    <DIR>          .
+07/02/2020  04:56 PM    <DIR>          ..
+06/05/2020  04:46 PM               339 file1.txt
+06/05/2020  04:46 PM               339 file2.txt
+06/05/2020  05:06 PM               438 file3.html
+06/05/2020  05:56 PM               489 file4.html
+07/02/2020  04:41 PM                 2 file5.txt
+07/02/2020  04:56 PM                 0 file6.txt
+07/02/2020  04:56 PM               906 HelloWorld.class
+07/02/2020  04:19 PM               157 HelloWorld.java
+               8 File(s)          2,670 bytes
+               2 Dir(s)  38,534,602,752 bytes free
